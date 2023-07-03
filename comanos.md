@@ -3,3 +3,4 @@
 3. git checkout --
 [nombre del archivo]
 4. git add .
+5. git checkout -b [nombre rama]
